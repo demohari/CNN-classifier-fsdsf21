@@ -129,8 +129,9 @@ dmypy.json
 .pyre/
 
 ./env
-./data
+
 ./data.zip
 research_env/data/data.zip
 research_env/data/PetImages/
-
+/home/hari/deep_learning/CNN-classifier-fsdsf21/research_env/data/CDLA-Permissive-2.0.pdf
+/home/hari/deep_learning/CNN-classifier-fsdsf21/research_env/data/readme[1].txt
