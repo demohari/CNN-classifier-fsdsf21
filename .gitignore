@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 ./env
+./data
 ./data.zip
 research_env/data/data.zip
+research_env/data/PetImages/
+
