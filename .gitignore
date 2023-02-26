@@ -138,4 +138,12 @@ research_env/data/readme[1].txt
 research_env/bad_data/Thumbs.db
 research_env/data/CDLA-Permissive-2.0.pdf
 research_env/bad_data/666.jpg
+<<<<<<< HEAD
 research_env/logs/*
+=======
+*/bad_data
+model .h5
+.vscode
+1.jpg
+
+>>>>>>> bde946a (model created)
